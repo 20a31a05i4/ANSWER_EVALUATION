@@ -54,6 +54,9 @@ SYSTEM ARCHITECTURE
 
  ![image](https://github.com/user-attachments/assets/34aeef19-ef5d-4f81-97ff-97f2e5253382)
 
+ ![image](https://github.com/user-attachments/assets/65809d4e-2f6c-47d2-9ab9-8a216646a465)
+
+
 
 
 
@@ -75,24 +78,30 @@ The feedback and reporting module facilitates communication between teachers and
 
 
 HARDWARE REQUIREMENTS 
-MINIMUM (Required for Execution)	MY SYSTEM (Development)
-System	Pentium IV 2.2 GHz	i3 Processor 5th Gen
-Hard Disk	20 Gb	500 Gb
-Ram	1 Gb	4 Gb
+
+MINIMUM (Required for Execution)	      MY SYSTEM (Development)
+System	Pentium IV 2.2 GHz	             i3 Processor 5th Gen
+Hard Disk	20 Gb	                       500 Gb
+Ram	1 Gb	                              4 Gb
+
 
 SOFTWARE REQUIREMENTS
-Operating System	Windows 10/11
-Development Software	Python 3.10
-Programming Language	Python
-Domain	Image Processing & Cloud Computing
-Integrated Development Environment (IDE)	Visual Studio Code
-Front End Technologies	HTML5, CSS3, Java Script
-Back End Technologies or Framework	Django
-Database Language	SQL
-Database (RDBMS) 	MySQL
-Database Software	WAMP or XAMPP Server
-Web Server or Deployment Server	Django Application Development Server
-Design/Modelling	Rational Rose
+
+Operating System	          Windows 10/11
+Development Software	      Python 3.10
+Programming Language	      Python
+Domain	                    Image Processing & Cloud Computing
+Integrated Development 
+Environment (IDE)	         Visual Studio Code
+Front End Technologies    	HTML5, CSS3, Java Script
+Back End Technologies 
+or Framework	              Django
+Database Language	         SQL
+Database (RDBMS)          	MySQL
+Database Software	         WAMP or XAMPP Server
+Web Server or Deployment 
+Server	                   Django Application Development Server
+Design/Modelling	         Rational Rose
 
 
 REFERENCES
